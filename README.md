@@ -6,4 +6,4 @@
   - [ ] Michael
   - [ ] Shahar
   - [ ] David 
-homogay = no good
+- homogay = no good
