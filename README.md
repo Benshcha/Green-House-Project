@@ -2,3 +2,7 @@
 
 ## TODO
 - [ ] Download git, github and vscode
+  - [ ] Kraft
+  - [ ] Michael
+  - [ ] Shahar
+  - [ ] David 
