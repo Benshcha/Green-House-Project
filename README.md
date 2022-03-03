@@ -7,3 +7,5 @@
   - [ ] Shahar
   - [ ] David 
 - homogay = no good
+- kraft = no good
+- homogay = kraft
