@@ -5,4 +5,4 @@
   - [x] Kraft
   - [ ] Michael
   - [ ] Shahar
-  - [ ] David 
+  - [x] David 
