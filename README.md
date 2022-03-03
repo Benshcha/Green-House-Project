@@ -3,6 +3,6 @@
 ## TODO
 - [ ] Download git, github and vscode
   - [x] Kraft
-  - [ ] Michael
-  - [ ] Shahar
+  - [x] Michael
+  - [x] Shahar
   - [x] David 
